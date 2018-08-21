@@ -1,1 +1,3 @@
 # color-generator
+
+A simple background color color generator...
